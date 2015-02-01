@@ -1,22 +1,21 @@
 <html> 
     <head> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title> 
 	    #Instalacion y uso de Node.js 
 	</title> 
 	
 	<link rel="icon" href="images/index.ico" />
-	<style type="text/css">
+	<style rel="stylesheet" type="text/css">
 	    html * {
 		font-family: "Arial";font-size: 50px;
 		}
 	    body {
-	        font-family: $main-font;
-  
+	      font-family: $main-font;
+	      margin-left: 5%;
+	      margin-right: 20%;
+	      background: #A9F5D0 url(/images/a.jpg) no-repeat ;
 
-background: #A9F5D0 url(/images/2.jpg) no-repeat ;
-background-size: cover;
-background-position: center 0;
-background-attachment: fixed;
 	    }
 	    h1 { text-align: center; font-size: 120px; }
 	    h2 { text-align: center; font-size: 80px; }
@@ -66,9 +65,6 @@ background-attachment: fixed;
 	<h2>WINDOW<br><br></h2>
 
 	En el caso de Window vale con descargar y ejecutar el instalador.<br><br>
-
-	
-	
 	
 	<br>
 	<b>Uso de Node.js<br>

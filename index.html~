@@ -4,24 +4,26 @@
 	    #Instalacion y uso de Node.js 
 	</title> 
 	
-	<link rel="icon" type="image/png" href="images/index.jpeg" />
+	<link rel="icon" href="images/index.ico" />
 	<style type="text/css">
 	    body {
-	      color: purple;
-	      background-color: #d8da3d 
+	      color: #08088A;
+	      background-color: #D8F781 
 	    }
 	</style>
     </head> 
     <body> 
 	<font face="arial" size="10"> 
+	<center>
 	
 
-	<h1> ### ***Node.js***<br>
+	<h3> ### ***Node.js***<br>
 
 	Node.js proporciona una manera facil para construir programas de red escalables.<br>
 
 	Aplicacion node de ejemplo:<br>
-	
+	<div style=”padding:12px;background-color:#COLOR;line-height:1.4;”>
+
 	> var http = require("http");<br>
 	> var url = require("url");<br>
 	> http.createServer(function(request, response){<br>
@@ -35,7 +37,9 @@
 	> response.write(numOutput);<br>
 	> responde.end();<br>
 	
-	<h3><b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
+	</div>
+	
+	<b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
 
 	<b>**LINUX**<br><br>
 
@@ -55,10 +59,12 @@
 
 	<p align="center"><img src="images/fotonodejs.jpeg" width="122" height="85"> </p>
 	
-	<h3><b>###Uso de Node.js<br>
+	<b>###Uso de Node.js<br>
 	Node.js se ejecutara usando el comando nodejs<br><br>
 	<i>###### Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
 	</font>
+	<center>texto</center> -------------> para centrar un texto 
+	
     </body> 
 <html> 
 

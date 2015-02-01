@@ -2,7 +2,7 @@
     <head> 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title> 
-	    #Instalacion y uso de Node.js 
+	    Instalacion y uso de Node.js 
 	</title> 
 	
 	<link rel="icon" href="images/index.ico" />
@@ -29,7 +29,7 @@
 	<h1><div> Node.js<br> </div></h1>
 
 	<h3>Node.js proporciona una manera facil para construir programas de red escalables.<br>
-	<b>Aplicacion node de ejemplo:<br>
+	<br><b>Aplicacion node de ejemplo:<br><br>
 	<div>
 
 	<table>
@@ -48,7 +48,7 @@
 	</table>
 	</div>
 	
-	<b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br>
+	<br><b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br>
 
 	<h2>LINUX<br></h2>
 	<table><div>
@@ -67,13 +67,13 @@
 
 	En el caso de Window vale con descargar y ejecutar el instalador.<br>
 	<imagen>
-	Imagen de prueba para node.js<br>
+	Imagen de prueba para node.js<br><br>
 	<img src="fotonodejs.png" width="438" height="300">
 	</imagen>
 	
 	<br>
 	<b>Uso de Node.js<br>
-	Node.js se ejecutara usando el comando nodejs<br>
+	Node.js se ejecutara usando el comando nodejs<br><br>
 	<i> Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
 	<br>
 

@@ -42,7 +42,6 @@ Si se produciera un error en la instalacion se podra probar hacer un *"brew upda
 ***
 
 ![Imagen con alguna prueba de uso de node.js](images/fotonodejs.png)
-![Imagen con alguna prueba de uso de node.js](images/fotonodejs2.png)
 
 ###Uso de Node.js
 Node.js se ejecutara usando el comando nodejs

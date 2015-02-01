@@ -8,7 +8,7 @@
 	<style type="text/css">
 	    html * {
 		background: url("2.jpg") no-repeat ;
-		font-family: "Arial";
+		font-family: "Arial";font-size: 50px;
 		}
 	      body {
 	      
@@ -18,19 +18,20 @@
 	      margin-right: 20%;
 
 	    }
-	    h1 { text-align: center; font-size: 80px; }
-	    h2 { text-align: center; font-size: 50px; }
+	    h1 { text-align: center; font-size: 1200px; }
+	    h2 { text-align: center; font-size: 80px; }
 
 	</style>
     </head> 
     <body> 
 
-	<h1> Node.js<br>
+	<br><br>
+	<h1> Node.js<br> </h1>
 
 	Node.js proporciona una manera facil para construir programas de red escalables.<br>
 
 	Aplicacion node de ejemplo:<br>
-	<div style=”padding:12px;background-color:#D358F7;line-height:1.4;”>
+	<div style=”background-color:#F79F81;”>
 
 	var http = require("http");<br>
 	var url = require("url");<br>
@@ -49,19 +50,19 @@
 	
 	<b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
 
-	<h2>LINUX<br><br>
+	<h2>LINUX<br><br></h2>
 
 	sudo apt_get install python-software-properties<br>
 	sudo add-apt-repository ppa:chris-lea/node.js<br>
 	sudo apt-get update<br>
 	sudo apt-get install nodejs npm<br><br>
 
-	<h2>MAC<br><br>
+	<h2>MAC<br><br></h2>
 
 	En caso de Mac deberemos utilizar el gestor de paquetes "homebrew" usando brew install nodejs.<br> 
 	Si se produciera un error en la instalacion se podra probar hacer un "brew update".<br><br>
 
-	<h2>WINDOW<br><br>
+	<h2>WINDOW<br><br></h2>
 
 	En el caso de Window vale con descargar y ejecutar el instalador.<br>
 

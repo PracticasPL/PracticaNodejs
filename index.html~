@@ -7,50 +7,47 @@
 	<link rel="icon" type="image/png" href="images/index.jpeg" />
     </head> 
     <body> 
-
-	<texto1
-	Nota: esta pagina ha sido desarrollada usando Marckdown.
-	--------------------------------------------------------
-
-	### ***Node.js***
-
-	Node.js proporciona una manera facil para construir programas de red escalables.
-
-	Aplicacion node de ejemplo:
+	<font face="arial" size="10"> 
 	
-	> var http = require("http");
-	> var url = require("url");
-	> http.createServer(function(request, response){
-	> response.writeHead(200, {Content.Type": "text/plain"});
-	> var params = url.parse(request.url, true).query;
-	> var input = params.number;
 
-	> var numInput = new Number(input);
-	> var numOutput = new Number(Math.random() * numImput().toFixed(0);
+	<h1> ### ***Node.js***<br>
 
-	> response.write(numOutput);
-	> responde.end();
+	Node.js proporciona una manera facil para construir programas de red escalables.<br>
 
-	Dependiendo de nuestro sistema operativo deberemos instalar Node.js
+	Aplicacion node de ejemplo:<br>
+	
+	> var http = require("http");<br>
+	> var url = require("url");<br>
+	> http.createServer(function(request, response){<br>
+	      > response.writeHead(200, {Content.Type": "text/plain"});<br>
+	> var params = url.parse(request.url, true).query;<br>
+	> var input = params.number;<br><br>
 
-	**LINUX**
+	> var numInput = new Number(input);<br>
+	> var numOutput = new Number(Math.random() * numImput().toFixed(0);<br><br>
 
-	> sudo apt_get install python-software-properties
-	> sudo add-apt-repository ppa:chris-lea/node.js
-	> sudo apt-get update
-	> sudo apt-get install nodejs npm
+	> response.write(numOutput);<br>
+	> responde.end();<br>
+	
+	<h3>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
 
-	**MAC**
+	<b>**LINUX**<br><br>
 
-	> En caso de Mac deberemos utilizar el gestor de paquetes *homebrew* usando brew install nodejs. 
-	Si se produciera un error en la instalacion se podra probar hacer un *brew update*.
+	> sudo apt_get install python-software-properties<br>
+	> sudo add-apt-repository ppa:chris-lea/node.js<br>
+	> sudo apt-get update<br>
+	> sudo apt-get install nodejs npm<br><br>
 
-	**WINDOW**
+	<b>**MAC**<br><br>
 
-	> En el caso de Window vale con descargar y ejecutar el instalador.
-	***
+	> En caso de Mac deberemos utilizar el gestor de paquetes *homebrew* usando brew install nodejs.<br> 
+	Si se produciera un error en la instalacion se podra probar hacer un *brew update*.<br><br>
 
-	<img src="lafoto.jpg" >
+	<b>**WINDOW**<br><br>
+
+	> En el caso de Window vale con descargar y ejecutar el instalador.<br>
+
+	<img src="fotonodejs.png" >
 	
 	###Uso de Node.js
 	Node.js se ejecutara usando el comando nodejs
@@ -58,7 +55,7 @@
 
 
 	Aquí va lo que vez adentro de la pagina 
-	</texto1>
+	</font>
     </body> 
 <html> 
 

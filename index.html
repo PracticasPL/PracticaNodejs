@@ -1,0 +1,85 @@
+<html> 
+    <head> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title> 
+	    #Instalacion y uso de Node.js 
+	</title> 
+	
+	<link rel="icon" href="images/index.ico" />
+	<style rel="stylesheet" type="text/css">
+	    html * {
+		font-family: "Arial";font-size: 50px;
+		}
+	    body {
+	      font-family: $main-font;
+	      margin-left: 5%;
+	      margin-right: 20%;
+	      background: #A9F5D0 url(/images/a.jpg) no-repeat ;
+
+	    }
+	    h1 { text-align: center; font-size: 120px; }
+	    h2 { text-align: center; font-size: 80px; }
+
+	</style>
+    </head> 
+    <body> 
+	<br><br>
+	<h1> Node.js<br> </h1>
+
+	Node.js proporciona una manera facil para construir programas de red escalables.<br>
+
+	<br>
+	<b>Aplicacion node de ejemplo:<br><br>
+	<div style=”background-color:black;”>
+
+	<table>
+	var http = require("http");<br>
+	var url = require("url");<br>
+	http.createServer(function(request, response){<br>
+	response.writeHead(200, {Content.Type": "text/plain"});<br>
+	var params = url.parse(request.url, true).query;<br>
+	var input = params.number;<br><br>
+
+	var numInput = new Number(input);<br>
+	var numOutput = new Number(Math.random() * numImput().toFixed(0);<br><br>
+
+	response.write(numOutput);<br>
+	responde.end();<br>
+	</table>
+	</div>
+	
+	<br> <br><b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
+
+	<h2>LINUX<br><br></h2>
+	<table>
+	sudo apt_get install python-software-properties<br>
+	sudo add-apt-repository ppa:chris-lea/node.js<br>
+	sudo apt-get update<br>
+	sudo apt-get install nodejs npm<br><br>
+	</table>
+	<h2>MAC<br><br></h2>
+
+	En caso de Mac deberemos utilizar el gestor de paquetes "homebrew" usando brew install nodejs.<br> 
+	Si se produciera un error en la instalacion se podra probar hacer un "brew update".<br><br>
+
+	<h2>WINDOW<br><br></h2>
+
+	En el caso de Window vale con descargar y ejecutar el instalador.<br><br>
+	<imagen>
+	<img src="fotonodejs.png">
+	<img src="./images/fotonodejs.png">
+	<img src="../images/fotonodejs.png">
+	<img src="images/fotonodejs.png">
+	<img src=2.jpg>
+	</imagen>
+	
+	<br>
+	<b>Uso de Node.js<br>
+	Node.js se ejecutara usando el comando nodejs<br><br>
+	<i> Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
+	<br><br>
+	
+	
+    </body> 
+<html> 
+

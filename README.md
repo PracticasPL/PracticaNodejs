@@ -25,5 +25,4 @@ Si se produciera un error en la instalacion se podra probar hacer un *"brew upda
 
 ![Imagen con alguna prueba de uso de node.js](images/fotonodejs.png)
 
-NOTA: ######Marckdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado
-
+###### Marckdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.

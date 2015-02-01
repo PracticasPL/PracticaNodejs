@@ -4,11 +4,11 @@
 	    #Instalacion y uso de Node.js 
 	</title> 
 	
-	<link rel="shortcut icon" href="images/index.jpeg" />
+	<link rel="icon" type="image/png" href="images/index.jpeg" />
     </head> 
     <body> 
 
-	<texto1> 
+	<texto1
 	Nota: esta pagina ha sido desarrollada usando Marckdown.
 	--------------------------------------------------------
 
@@ -17,7 +17,7 @@
 	Node.js proporciona una manera facil para construir programas de red escalables.
 
 	Aplicacion node de ejemplo:
-
+	
 	> var http = require("http");
 	> var url = require("url");
 	> http.createServer(function(request, response){

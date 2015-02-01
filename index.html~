@@ -65,6 +65,13 @@
 	<h2>WINDOW<br><br></h2>
 
 	En el caso de Window vale con descargar y ejecutar el instalador.<br><br>
+	<imagen>
+	<img src="fotonodejs.png">
+	<img src="./images/fotonodejs.png">
+	<img src="../images/fotonodejs.png">
+	<img src="images/fotonodejs.png">
+	<img src=2.jpg>
+	</imagen>
 	
 	<br>
 	<b>Uso de Node.js<br>

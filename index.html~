@@ -27,7 +27,7 @@
     </head> 
     <body> 
 	<br><br>
-	<h1> Node.js<br> </h1>
+	<h1><div> Node.js<br> </div></h1>
 
 	<h3>Node.js proporciona una manera facil para construir programas de red escalables.<br>
 

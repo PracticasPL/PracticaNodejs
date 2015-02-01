@@ -12,7 +12,7 @@
 	    body {
 	      margin-left: 5%;
 	      margin-right: 20%;
-	      background:url("a.jpg") no-repeat;
+	      background:url("2.jpg") no-repeat;
 	    }
 	    h1 { text-align: center; font-size: 120px; }
 	    h2 { text-align: center; font-size: 80px; }

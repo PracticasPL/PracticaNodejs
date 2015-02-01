@@ -20,7 +20,7 @@
 	    }
 	    h1 { text-align: center; font-size: 120px; }
 	    h2 { text-align: center; font-size: 80px; }
-	    div{ background: 58ACFA;}
+	    div{ background: #58ACFA;opacity: 0.5;}
 	</style>
     </head> 
     <body> 

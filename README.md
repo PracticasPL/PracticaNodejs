@@ -1,5 +1,5 @@
 # Instalacion y uso de Node.js #
-Nota: esta pagina ha sido desarrollada usando Marckdown.
+Nota: esta pagina ha sido desarrollada usando Marckdown.[^1]
 --------------------------------------------------------
 
 ### ***Node.js***

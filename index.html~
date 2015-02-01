@@ -23,6 +23,7 @@
 
 	<body background="2.jpg">
 	<background="2.jpg">
+	<body style="background-image: url(2.jpg);"></body>
 	<br><br>
 	<h1> Node.js<br> </h1>
 

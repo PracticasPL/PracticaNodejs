@@ -8,19 +8,20 @@
 	<link rel="icon" href="images/index.ico" />
 	<style rel="stylesheet" type="text/css">
 	    html * {
-		font-family: "Arial";font-size: 50px;
+		font-family: "Arial";
 		}
 	    body {
 	      font-family: $main-font;
+	      font: small-caps 120%/200% serif;
 	      margin-left: 5%;
 	      margin-right: 20%;
 	      background: #A9F5D0 url(2.jpg) no-repeat ;
 	      background-size: cover;
 
 	    }
-	    h1 { text-align: center; font-size: 120px; }
-	    h2 { text-align: center; font-size: 80px; }
-	    h3 {font-size: 80px;}
+	    h1 { text-align: center; font-size: 30px; }
+	    h2 { text-align: center; font-size: 20px; }
+	    h3 {font-size: 20px;}
 	    div{ background: #58ACFA;opacity: 0.5;}
 	</style>
     </head> 
@@ -68,11 +69,11 @@
 
 	En el caso de Window vale con descargar y ejecutar el instalador.<br><br>
 	<imagen>
-	<br>Imagen de prueba para node.js
+	<br>Imagen de prueba para node.js<br>
 	<img src="fotonodejs.png" width="1400" height="1400">
 	</imagen>
 	
-	<br>
+	<br><br>
 	<b>Uso de Node.js<br>
 	Node.js se ejecutara usando el comando nodejs<br><br>
 	<i> Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.

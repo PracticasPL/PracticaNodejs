@@ -7,7 +7,7 @@
 	<link rel="icon" href="images/index.ico" />
 	<style type="text/css">
 	    html * {
-		font-family: "Arial", 80% sans-serif;
+		font-family: "Arial";
 		}
 
 	      body {
@@ -17,8 +17,7 @@
 
 	      color: black;
 
-	      background: #A9F5D0 url("./images/2.jpg") no-repeat ;
-	      background-size: cover;
+	      background: url("2.jpg") no-repeat ;
 	      background-position: center 0;
 	      margin-left: 20%;
 	      margin-right: 20%;
@@ -33,7 +32,7 @@
 	Node.js proporciona una manera facil para construir programas de red escalables.<br>
 
 	Aplicacion node de ejemplo:<br>
-	<div style=”padding:12px;background-color:##D358F7;line-height:1.4;”>
+	<div style=”padding:12px;background-color:#D358F7;line-height:1.4;”>
 
 	var http = require("http");<br>
 	var url = require("url");<br>
@@ -61,14 +60,14 @@
 
 	<b>MAC<br><br>
 
-	> En caso de Mac deberemos utilizar el gestor de paquetes *homebrew* usando brew install nodejs.<br> 
-	Si se produciera un error en la instalacion se podra probar hacer un *brew update*.<br><br>
+	> En caso de Mac deberemos utilizar el gestor de paquetes "homebrew" usando brew install nodejs.<br> 
+	Si se produciera un error en la instalacion se podra probar hacer un "brew update".<br><br>
 
 	<b>WINDOW<br><br>
 
 	> En el caso de Window vale con descargar y ejecutar el instalador.<br>
 
-	<p align="center"><img src="images/fotonodejs.jpeg" width="122" height="85"> </p>
+	<p align="center"><img src="fotonodejs.jpeg" width="122" height="85"> </p>
 	
 	<b>Uso de Node.js<br>
 	Node.js se ejecutara usando el comando nodejs<br><br>

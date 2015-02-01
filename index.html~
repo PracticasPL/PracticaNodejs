@@ -13,12 +13,12 @@
 	      body {
 	      
 	      color: black;
-	      background: url("2.jpg") no-repeat ;
+	      background: url("images/2.jpg") no-repeat ;
 	      margin-left: 5%;
 	      margin-right: 20%;
 
 	    }
-	    h1 { text-align: center; font-size: 1200px; }
+	    h1 { text-align: center; font-size: 120px; }
 	    h2 { text-align: center; font-size: 80px; }
 
 	</style>
@@ -30,8 +30,9 @@
 
 	Node.js proporciona una manera facil para construir programas de red escalables.<br>
 
-	Aplicacion node de ejemplo:<br>
-	<div style=”background-color:#F79F81;”>
+	<br>
+	<b>Aplicacion node de ejemplo:<br><br>
+	<div style=”background-color:black;”>
 
 	var http = require("http");<br>
 	var url = require("url");<br>
@@ -64,13 +65,19 @@
 
 	<h2>WINDOW<br><br></h2>
 
-	En el caso de Window vale con descargar y ejecutar el instalador.<br>
+	En el caso de Window vale con descargar y ejecutar el instalador.<br><br>
 
 	<img src="fotonodejs.jpeg">
+	<img src="./images/fotonodejs.jpeg">
+	<img src="../images/fotonodejs.jpeg">
+	<img src="images/fotonodejs.jpeg">
 	
+	
+	<br>
 	<b>Uso de Node.js<br>
 	Node.js se ejecutara usando el comando nodejs<br><br>
 	<i> Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
+	<br><br>
 	</font>
 	
 	

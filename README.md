@@ -26,5 +26,5 @@ Imagen con alguna prueba de uso de node.js
 
 ![Imagen con alguna prueba de uso de node.js](images/fotonodejs.png)
 
-NOTA: Marckdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado
-[^1]
+[:^1] NOTA: Marckdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado
+

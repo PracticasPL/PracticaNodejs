@@ -13,7 +13,7 @@
 	      body {
 	      
 	      color: black;
-	      background: url("images/2.jpg") no-repeat ;
+	      background: url("2.jpg") no-repeat ;
 	      margin-left: 5%;
 	      margin-right: 20%;
 
@@ -67,10 +67,10 @@
 
 	En el caso de Window vale con descargar y ejecutar el instalador.<br><br>
 
-	<img src="fotonodejs.jpeg">
-	<img src="./images/fotonodejs.jpeg">
-	<img src="../images/fotonodejs.jpeg">
-	<img src="images/fotonodejs.jpeg">
+	<img src="fotonodejs.png">
+	<img src="./images/fotonodejs.png">
+	<img src="../images/fotonodejs.png">
+	<img src="images/fotonodejs.png">
 	
 	
 	<br>

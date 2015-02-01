@@ -5,6 +5,12 @@
 	</title> 
 	
 	<link rel="icon" type="image/png" href="images/index.jpeg" />
+	<style type="text/css">
+	    body {
+	      color: purple;
+	      background-color: #d8da3d 
+	    }
+	</style>
     </head> 
     <body> 
 	<font face="arial" size="10"> 
@@ -29,7 +35,7 @@
 	> response.write(numOutput);<br>
 	> responde.end();<br>
 	
-	<h3>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
+	<h3><b>Dependiendo de nuestro sistema operativo deberemos instalar Node.js<br><br>
 
 	<b>**LINUX**<br><br>
 
@@ -47,14 +53,11 @@
 
 	> En el caso de Window vale con descargar y ejecutar el instalador.<br>
 
-	<img src="fotonodejs.png" >
+	<p align="center"><img src="images/fotonodejs.jpeg" width="122" height="85"> </p>
 	
-	###Uso de Node.js
-	Node.js se ejecutara usando el comando nodejs
-	###### Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
-
-
-	Aquí va lo que vez adentro de la pagina 
+	<h3><b>###Uso de Node.js<br>
+	Node.js se ejecutara usando el comando nodejs<br><br>
+	<i>###### Markdown es un lenguaje de marcado ligero parecido al que se emplea en muchas wikis y basado originalmente en convenciones existentes en el carcado de los correos electronicos. Emplea texto plano, procurando que sea legible pero consiguientdo que se convierta en XHTML correctamente formateado.
 	</font>
     </body> 
 <html> 
